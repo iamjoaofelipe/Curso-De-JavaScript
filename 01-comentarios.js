@@ -1,8 +1,8 @@
-var x = 7; // Comentário de uma linha em JavaScript.
+var x = 7; // Comentário de uma LINHA em JavaScript.
 
 /*
 
-comentar mais de uma linha em JavaScript.
+comentar MAIS DE UMA LINHA em JavaScript.
 
 */
 
