@@ -1,11 +1,11 @@
 // Dividir dois números em JavaScript.
 
 
-var  cociente  =  20  /  2 ;
-console . log ( cociente ) ;
+var  quociente  =  20  /  2 ;
+console . log (quociente) ;
 
-cociente  =  17  /  31  ;
-console . log ( cociente ) ;
+quociente  =  17  /  31  ;
+console . log (quociente) ;
 
-cociente  =  3  /  0 ;
-console . log ( cociente ) ;
+quociente  =  3  /  0 ;
+console . log (quociente) ;
