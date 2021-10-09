@@ -10,6 +10,5 @@ console.log(MInhavarIAVEL)
 console.log(minhavariavel) 
 ERRADO
 */
-
 console.log(minhaVariavel); // CERTO
 
