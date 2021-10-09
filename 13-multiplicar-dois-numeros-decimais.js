@@ -1,8 +1,8 @@
 //Multiplicar dos números decimais com JavaScript.
 
 
-//var produto =  3,4  *  10,4 ;
-//console.log(produto);
+var produto =  3.4  *  10.4 ;
+console.log(produto);
 
 
 produto = 2, 4 * 4;
