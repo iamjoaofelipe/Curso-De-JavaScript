@@ -1,6 +1,6 @@
 // Incrementar o valor de uma variável
 
-var livrosComprados = 11;
+var livrosComprados = 100;
 console.log(livrosComprados);
 
 // opção 1
@@ -12,3 +12,4 @@ console.log(livrosComprados);
 
 livrosComprados++;
 console.log(livrosComprados);
+
