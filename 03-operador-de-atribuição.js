@@ -1,3 +1,4 @@
+// Operador de atribuição em JavaScript.
 var a;
 var b = 2;
 
