@@ -1,4 +1,4 @@
-//Multiplicar dos números decimais em JavaScript.
+//Multiplicar dois números decimais em JavaScript.
 
 
 var produto =  3.4  *  10.4 ;
