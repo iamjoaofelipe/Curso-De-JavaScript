@@ -1,4 +1,4 @@
-// Atribuição de subtração composta em Javascript.
+// Atribuição de subtração composta em JavaScript.
 
 var b = 23;
 b = b - 3;
