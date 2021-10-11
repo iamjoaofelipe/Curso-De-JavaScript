@@ -15,3 +15,4 @@ console.log(salario);
 
 salario *= 5;
 console.log(salario);
+
