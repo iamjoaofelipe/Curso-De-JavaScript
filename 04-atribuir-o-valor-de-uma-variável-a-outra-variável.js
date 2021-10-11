@@ -1,4 +1,4 @@
-// Atribuir o valor de uma variável a outra variável.
+// Atribuir o valor de uma variável a outra variável em JavaScript.
 
 // Opção 1
 
