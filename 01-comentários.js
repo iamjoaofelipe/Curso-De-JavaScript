@@ -1,3 +1,5 @@
+// Comentários em JavaScript.
+
 var x = 7; // Comentário de uma LINHA em JavaScript.
 
 /*
