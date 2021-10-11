@@ -1,4 +1,4 @@
-// Variáveis não inicializadas.
+// Variáveis não inicializadas em JavaScript.
 
 var a;
 var b;
