@@ -12,3 +12,5 @@ var totalDeDivida = 2446;
 console.log(totalDeDivida);
 totalDelta -= 345;
 console.log(totalDeDivida);
+
+
