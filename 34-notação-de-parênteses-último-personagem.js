@@ -3,6 +3,7 @@
 var minhaCorrente 
 
 /*
+
 O último índice é sempre longo - 1 porque começamos a contar a partir de 0. 
 contando a partir de 0.
 myString.length para "JavaScript" é 10.
