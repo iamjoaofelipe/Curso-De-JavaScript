@@ -30,3 +30,4 @@ console.log(meuArray[2][0]); // 7
 console.log(meuArray[2][1]); // 8
 console.log(meuArray[2][2]); // 9
 */
+
