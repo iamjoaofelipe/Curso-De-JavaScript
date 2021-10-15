@@ -12,3 +12,6 @@ console.log(minhaMatriz);
 minhaMatriz [1] = [1,2,3];
 console.log(minhaMatriz);
 
+
+
+
