@@ -1,6 +1,5 @@
 // Acesso a arrays multidimensionais em JavaScript.
 
-
 var meuArray = [[1,2,3] , [3,4,5] , [7,8,9,]]; 
 
 /*
@@ -30,4 +29,6 @@ console.log(meuArray[2][0]); // 7
 console.log(meuArray[2][1]); // 8
 console.log(meuArray[2][2]); // 9
 */
+
+
 
