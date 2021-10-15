@@ -1,4 +1,4 @@
-// Arranjos em JavaScript.
+// Array em JavaScript.
 
 var meuArranjo = ["João", 100];
 console.log(meuArranjo);
