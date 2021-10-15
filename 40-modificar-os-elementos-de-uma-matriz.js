@@ -1,4 +1,4 @@
-// Modificar os elementos de uma matriz em JavaScript.
+// Modificar os elementos de uma matriz em JavaScript..
 
 var minhaMatriz = [10,20,30];
 
