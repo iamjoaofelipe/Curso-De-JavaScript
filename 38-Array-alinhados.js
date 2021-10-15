@@ -1,4 +1,4 @@
-// Arranjos aninhados em JavaScript
+// Array alinhados em JavaScript
 
 var listaDeEstudantes = [["João", 97], ["Felipe", 98]];
 console.log(listaDeEstudantes);
