@@ -1,3 +1,5 @@
+
+// Manipulação de array com .push();
 // O método push() adiciona um ou mais elementos ao final de um array
 // e retorna o novo comprimento desse array.
 
