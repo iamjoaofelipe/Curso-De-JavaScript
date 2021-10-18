@@ -6,3 +6,6 @@ var estacões = ["inverno" , "outono" , "primavera"];
 estacões.shift();
 
 console.log(estacões);
+
+
+
