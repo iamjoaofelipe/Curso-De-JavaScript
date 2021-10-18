@@ -1,4 +1,4 @@
-// // Manipulação de array com unshift();
+// Manipulação de array com unshift();
 // O método unshift() adiciona um ou mais elementos no início de um array 
 // e retorna o número de elementos (propriedade length) atualizado.
 
