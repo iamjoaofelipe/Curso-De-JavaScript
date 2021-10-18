@@ -1,4 +1,4 @@
-// Ambito global em JavaScript.
+// Variável global em JavaScript.
 
 var minhaVariavel = 5;
 console.log(minhaVariavel);
