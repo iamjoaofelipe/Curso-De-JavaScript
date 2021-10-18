@@ -7,3 +7,7 @@ estações = ["inverno" , "outono" , "primavera" , "verão"];
 estação = estações.pop();
 console.log(estação);
 console.log(estações);
+
+console.log(estações);
+
+
