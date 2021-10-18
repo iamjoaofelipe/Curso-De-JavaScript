@@ -2,7 +2,7 @@
 
 function  minhaFunção ( )  {
     var  minhaVariavelLocal  =  4 ;
-    console.log ( minhaVariavelLocal ) ;
+    console.log ( minhaVariavelLocal) ;
   }
   
   minhaFunção ( ) ;  // A variável é definida dentro da função.
