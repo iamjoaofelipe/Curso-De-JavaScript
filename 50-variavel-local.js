@@ -1,4 +1,4 @@
-// Âmbito local em JavaScript.
+// Variável local em JavaScript.
 
 function  minhaFunção ( )  {
     var  minhaVariavelLocal  =  4 ;
