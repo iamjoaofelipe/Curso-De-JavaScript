@@ -9,4 +9,4 @@ function  minhaFunção ( )  {
   
   // Erro!
   // Como variável local, não pode ser utilizada fora da função.
- console.log (minhaVariavelLocal);
+ //console.log (minhaVariavelLocal);
