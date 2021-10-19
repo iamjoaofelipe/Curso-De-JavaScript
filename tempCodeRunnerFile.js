@@ -1,1 +1,0 @@
-Retornar o valor de uma função
