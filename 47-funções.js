@@ -9,5 +9,3 @@ mostrarMensagem();
 mostrarMensagem();
 mostrarMensagem();
 mostrarMensagem();
-mostrarMensagem();
-mostrarMensagem();
