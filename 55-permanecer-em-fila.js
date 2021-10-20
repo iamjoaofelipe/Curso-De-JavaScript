@@ -12,3 +12,4 @@ var meuAcordo = [1,2,3,4,5];
 console.log("Antes: " + JSON.stringify(meuAcordo));
 console.log(próximoDaFila(meuAcordo,6));
 console.log("Depois: " + JSON.stringify(meuAcordo));
+
