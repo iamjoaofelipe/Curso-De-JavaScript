@@ -19,5 +19,5 @@ b = "5";
 
 a = "JavaScript";
 b = "Javascript";
-console.log(a == b); // false
+console.log(a == b);// false
 console.log(a === b);//false
