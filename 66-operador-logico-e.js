@@ -1,7 +1,7 @@
 // Operador lógico "e" em JavaScript.
 
 /*
-   Tabla de verdad del operador E 
+   Tabela da verdade operador E 
    Para: X && Y
    | X | Y | X && Y |
    -----------------------
