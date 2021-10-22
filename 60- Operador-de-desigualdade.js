@@ -1,4 +1,4 @@
-//  Operador de desigualdade estrita em JavaScript.
+//  Operador de desigualdade em JavaScript.
 
 console.log(9 != 6) // true
 console.log(9 != 9) // false
