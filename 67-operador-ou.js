@@ -16,10 +16,10 @@
 
 // Vamos verificar a tabela da verdade 
 
-console.log(verdadeiro || verdadeiro);
-console.log(verdadeiro || falso);
-console.log(falso || verdadeiro);
-console.log(falso || falso);
+console.log(true || true);
+console.log(true || false);
+console.log(false || true);
+console.log(false || false);
 
 // Os operandos são agora expressões
 
