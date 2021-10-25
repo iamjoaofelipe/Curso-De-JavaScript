@@ -42,3 +42,4 @@ a = 5;
 
 // (a <5) || (a> 15) -> verdadeiro || verdadeiro -> verdadeiro
 console.log((a == 5) || (a < 15));
+
