@@ -43,7 +43,8 @@ pontuaçãoDoJogo(4, 1);  // Buraco-em-um!
 pontuaçãoDoJogo(4, 2);  // Águia
 pontuaçãoDoJogo(4, 3);  // Pássaro
 pontuaçãoDoJogo(4, 4);  // Par
-pontuaçãoDoJogo(4, 5);  // Bogey
-pontuaçãoDoJogo(4, 6);  // Double Bogey
+pontuaçãoDoJogo(4, 5);  // Marcando em cima do par
+pontuaçãoDoJogo(4, 6);  // Marcando em cima do par novamente
 pontuaçãoDoJogo(4, 7);  // ir para casa!
 pontuaçãoDoJogo(4, 15); // ir para casa!
+
