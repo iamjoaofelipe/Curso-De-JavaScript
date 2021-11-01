@@ -1,43 +1,49 @@
-// Código de Golfe em JavaScript
+/* Código de Golfe em JavaScript.
 
-/*
+No jogo de golfe, cada buraco tem um par. Um par é o 
+número médio de tacadas que um jogador de golfe deve dar 
+para colocar a bola no buraco e completar a jogada. 
+Dependendo de quantos golpes você deu, há um nome diferente.
+O objetivo da função é retornar esses nomes dependendo de quantas
+tacadas o jogador deu para colocar a bola no buraco.
+
+
 Golpes             Retornar
 -------------------------------
-1	               "Hole-in-one!"
-<= par - 2	       "Eagle"
-par - 1	           "Birdie"
+1	               "uma-no-buraco!"
+<= par - 2	       "Águia"
+par - 1	           "Pássaro"
 par	               "Par"
-par + 1	           "Bogey"
-par + 2	           "Double Bogey"
->= par + 3	       "Go Home!"
+par + 1	           "Marcando acima do par"
+par + 2	           "Marcando em cima do par novamente"
+>= par + 3	       "ir para casa!"
 
 */
 
-function puntajeDeGolf(par, golpes) {
+function pontuaçãoDoJogo(par, golpes) {
     if (golpes == 1) {
-      return "Hole-in-one!";
+        return "uma-no-buraco!";
     } else if (golpes <= par - 2) {
-      return "Eagle";
+        return "Águia";
     } else if (golpes == par - 1) {
-      return "Birdie";
+        return "Pássaro";
     } else if (golpes == par) {
-      return "Par";
+        return "Par";
     } else if (golpes == par + 1) {
-      return "Bogey";
+        return "marcando um acima do par";
     } else if (golpes == par + 2) {
-      return "Double Bogey";
+        return "marcando um acima do par em dobro";
     } else if (golpes >= par + 3) {
-      return "Go Home!";
+        return "Ir para casa!";
     }
-  }
-  
-  // exemplo console.log(puntajeDeGolf(4, 1));  // Hole-in-one! 
-  
-  puntajeDeGolf(4, 1);  // Hole-in-one!
-  puntajeDeGolf(4, 2);  // Eagle
-  puntajeDeGolf(4, 3);  // Birdie
-  puntajeDeGolf(4, 4);  // Par
-  puntajeDeGolf(4, 5);  // Bogey
-  puntajeDeGolf(4, 6);  // Double Bogey
-  puntajeDeGolf(4, 7);  // Go Home!
-  puntajeDeGolf(4, 15); // Go Home!
+}
+
+
+pontuaçãoDoJogo(4, 1);  // Buraco-em-um!
+pontuaçãoDoJogo(4, 2);  // Águia
+pontuaçãoDoJogo(4, 3);  // Pássaro
+pontuaçãoDoJogo(4, 4);  // Par
+pontuaçãoDoJogo(4, 5);  // Bogey
+pontuaçãoDoJogo(4, 6);  // Double Bogey
+pontuaçãoDoJogo(4, 7);  // ir para casa!
+pontuaçãoDoJogo(4, 15); // ir para casa!
