@@ -1,4 +1,4 @@
-// Setenças switch multiplos casos em JavaScript.
+// Sentenças switch multiplos casos em JavaScript.
 
 function classificarVolume(valor) {
     var volume;
