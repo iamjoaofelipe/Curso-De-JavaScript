@@ -24,3 +24,4 @@ console.log(selecionarIdioma(1));
 console.log(selecionarIdioma(2));
 console.log(selecionarIdioma(3));
 console.log(selecionarIdioma(4));
+
