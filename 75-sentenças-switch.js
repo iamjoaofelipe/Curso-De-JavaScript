@@ -31,7 +31,7 @@ function clasificarValor(valor) {
   
   // Exemplo
   
-  var produtos= "hamburguer";
+  var produtos= "pizza";
   
   switch (produtos) {
     case "pizza":
