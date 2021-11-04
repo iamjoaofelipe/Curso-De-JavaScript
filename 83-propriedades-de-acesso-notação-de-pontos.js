@@ -12,8 +12,10 @@ var meuObjeto = {
 
 };
 
-console.log(meuCachorro.nome); 
+console.log(meuCachorro.nome);
 console.log(meuCachorro.idade);
 console.log(meuCachorro.peso);
 console.log(meuCachorro.raça);
+
+
 
