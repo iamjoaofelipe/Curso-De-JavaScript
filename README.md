@@ -4,7 +4,7 @@ Neste repositório eu estou compartilhando com vocês todas as aulas do curso qu
 ## Sobre o Curso.
 Eu gostei muito do passo a passo do curso,principalmente dos projetos curtos que me ajudaram a aplicar conhecimentos.
 
-## 🔹 Conteúdo do Curso.
+## Conteúdo do Curso.
 - Primeiro Passos
 - Variáveis em JavaScript
 - Tipos de dados em JavaScript
@@ -28,7 +28,7 @@ Eu gostei muito do passo a passo do curso,principalmente dos projetos curtos que
 - Cordas ou modelos literais
 - Classes e métodos em JavaScript
 
-## 🔸 Projetos
+## Projetos
 Durante o curso, eu aprendi a criar alguns projetos curtos, são eles:
 - Palavras em branco
 - Lista de compras
@@ -36,4 +36,8 @@ Durante o curso, eu aprendi a criar alguns projetos curtos, são eles:
 - Código de golfe
 - Contagem de cartões
 - Busca de perfil
+
+## Link do curso
+
+<link> https://www.youtube.com/watch?v=ivdTnPl1ND0 </link>
 
