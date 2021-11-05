@@ -39,6 +39,6 @@ Durante o curso, eu aprendi a criar alguns projetos curtos, são eles:
 - Contagem de cartões
 - Busca de perfil
 
-## Link de acesso ao curso
+## Clique no link abaixo para acessar o curso
 
 <a href="https://www.youtube.com/watch?v=ivdTnPl1ND0/">Clique aqui</a></p>
