@@ -44,8 +44,3 @@ Si deseas aprender más sobre estas herramientas, te recomiendo leer el siguient
 Para escribir tu código, puedes descargar un editor de código (por ejemplo, Visual Studio Code) y editar el archivo index.html que incluí en el repositorio. Escribe tu código de JavaScript entre las etiquetas <script> y </script> y al hacer doble click sobre el archivo, el resultado se verá en la consola del navegador (si usas Google Chrome, en la consola de las herramientas de desarrollador).
 
 Durante el curso, usaremos el editor de código de freeCodeCamp, así que no es estrictamente necesario que descargues estas herramientas. Pero si deseas guardar tu código, deberás crear nuevos archivos index.html con <script> y </script> para escribir y guardar tu código.
-
-
-
-
-
