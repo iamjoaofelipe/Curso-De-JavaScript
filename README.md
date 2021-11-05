@@ -1,5 +1,7 @@
 # Curso completo de JavaScript
-Neste repositório eu estou compartilhando com vocês todas as aulas do curso que eu fiz no FreeCodeCamp.
+Estou compartilhando neste repositório todas as aulas do curso 
+que fiz no FreeCodeCamp,através do Youtube,aula por aula,traduzindo tudo para o
+português,pois o curso é totalmente em Espanhol.
 
 ## Sobre o Curso
 Eu gostei muito do passo a passo do curso,principalmente dos projetos curtos que me ajudaram a aplicar conhecimentos.
