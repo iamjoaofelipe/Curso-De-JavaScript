@@ -1,4 +1,4 @@
-# Curso completo de JavaScript
+# Curso completo de JavaScript Básico
 Estou compartilhando neste repositório todas as aulas do curso 
 que fiz no FreeCodeCamp,através do Youtube,aula por aula,traduzindo tudo para o
 português,pois o curso é totalmente em Espanhol.
