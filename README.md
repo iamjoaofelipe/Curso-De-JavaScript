@@ -1,35 +1,49 @@
-# Curso-De-JavaScript
-Aprenda JavaScript - Curso completo a partir da Zero
+# Aprende JavaScript - Curso Completo desde Cero
+Este repositorio contiene el código del curso "Aprende JavaScript - Curso Completo desde Cero" creado para freeCodeCamp.
 
-Este repositório contém o código para o curso "Learn JavaScript - Complete Course from Scratch" criado para o FreeCodeCamp.
+El curso de **9+ horas** está diseñado para que aprendas JavaScript paso a paso a través de la práctica con ejemplos y proyectos cortos que te ayudarán a aplicar tu conocimiento. Los temas están enfocados en un concepto específico pero aquí los he dividido en categorías principales para darte una idea general del contenido.
 
-O curso de mais de 9 horas foi projetado para que você aprenda JavaScript passo a passo através da prática com exemplos e projetos curtos que o ajudarão a aplicar seus conhecimentos. Os tópicos estão focados em um conceito específico, mas aqui os dividi em categorias principais para lhes dar uma idéia geral do conteúdo.
+## 🔹 Contenido
+- Primeros pasos
+- Variables en JavaScript
+- Tipos de datos en JavaScript
+- Operaciones aritméticas
+- Operadores de comparación y lógicos
+- Cadenas de caracteres en JavaScript
+- Arreglos en JavaScript
+- Métodos de arreglos (.push() ,  .pop() , .shift() , .unshift())
+- Variables globales y locales
+- Funciones en JavaScript
+- Condicionales en JavaScript
+- Sentencias Switch en JavaScript
+- Objetos en JavaScript 
+- Ciclos for y ciclos while en JavaScript
+- Números aleatorios en JavaScript
+- var vs. let vs. const en JavaScript
+- Operadores ternarios en JavaScript
+- Funciones flecha en JavaScript
+- Operadores rest y spread en JavaScript
+- Sintaxis de desestructuración para objetos y arreglos
+- Plantillas literales o plantillas de cadenas
+- Clases y métodos en JavaScript
 
-Conteúdo do curso.
+## 🔸 Proyectos
+Durante el curso crearemos paso a paso los siguientes proyectos cortos:
+- Palabras en blanco
+- Lista de compras
+- Permanece en fila
+- Código de golf
+- Conteo de cartas
+- Búsqueda de perfil
 
-Variáveis em JavaScript
-Tipos de dados em JavaScript
-Operações aritméticas
-Comparação e operadores lógicos
-Cordas de caracteres em JavaScript
-Arrays em JavaScript
-Métodos de matriz (.push() , .pop() , .shift() , .unshift())
-Variáveis globais e locais
-Funções em JavaScript
-JavaScript Condicionals
-Mudar declarações em JavaScript
-Objetos em JavaScript
-Para loops e enquanto loops em JavaScript
-Números aleatórios em JavaScript
-var vs. let vs. const em JavaScript
-Operadores de ternary em JavaScript
-Funções das setas em JavaScript
-Operadores de descanso e propagação em JavaScript
-Sintaxe de desestruturação para objetos e matrizes
-Cordas ou modelos literais
-Classes e métodos em JavaScript
+## 🔹 Cómo Ejecutar JavaScript
+Durante el curso puedes ejecutar tu código de JavaScript en el editor de código interactivo de freeCodeCamp o en el navegador (browser). Por ejemplo, Google Chrome tiene una herramienta llamada Chrome Developer Tools que tiene una consola donde puedes ver el resultado de tu código usando console.log(). 
 
+Si deseas aprender más sobre estas herramientas, te recomiendo leer el siguiente artículo: [Console overview](https://developer.chrome.com/docs/devtools/console/)
 
+Para escribir tu código, puedes descargar un editor de código (por ejemplo, Visual Studio Code) y editar el archivo index.html que incluí en el repositorio. Escribe tu código de JavaScript entre las etiquetas <script> y </script> y al hacer doble click sobre el archivo, el resultado se verá en la consola del navegador (si usas Google Chrome, en la consola de las herramientas de desarrollador).
+
+Durante el curso, usaremos el editor de código de freeCodeCamp, así que no es estrictamente necesario que descargues estas herramientas. Pero si deseas guardar tu código, deberás crear nuevos archivos index.html con <script> y </script> para escribir y guardar tu código.
 
 
 
