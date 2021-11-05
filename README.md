@@ -1,11 +1,10 @@
 # Aprende JavaScript - Curso Completo desde Cero
-Este repositorio contiene el código del curso "Aprende JavaScript - Curso Completo desde Cero" creado para freeCodeCamp.
+Este repositório contém o código do curso "Learn JavaScript - Complete Course from Scratch" que eu fiz no FreeCodeCamp.
 
-El curso de **9+ horas** está diseñado para que aprendas JavaScript paso a paso a través de la práctica con ejemplos y proyectos cortos que te ayudarán a aplicar tu conocimiento. Los temas están enfocados en un concepto específico pero aquí los he dividido en categorías principales para darte una idea general del contenido.
+O curso **9+ hora*** foi projetado para que você aprenda JavaScript passo a passo através da prática com exemplos e projetos curtos que o ajudarão a aplicar seus conhecimentos. Os tópicos estão focados em um conceito específico, mas aqui os dividi em categorias principais para lhes dar uma idéia geral do conteúdo.
 
 ## 🔹 Conteúdo do Curso
 - Primeiro Passos
-
 - Variáveis em JavaScript
 - Tipos de dados em JavaScript
 - Operações aritméticas
@@ -29,19 +28,11 @@ El curso de **9+ horas** está diseñado para que aprendas JavaScript paso a pas
 - Classes e métodos em JavaScript
 
 ## 🔸 Projetos
-Durante el curso crearemos paso a paso los siguientes proyectos cortos:
-- Palabras en blanco
+Durante o curso, eu aprendi a criar alguns projetos curtos, são eles:
+- Palavras em branco
 - Lista de compras
-- Permanece en fila
-- Código de golf
-- Conteo de cartas
-- Búsqueda de perfil
+- Fique na fila
+- Código de golfe
+- Contagem de cartões
+- Busca de perfil
 
-## 🔹 Cómo Ejecutar JavaScript
-Durante el curso puedes ejecutar tu código de JavaScript en el editor de código interactivo de freeCodeCamp o en el navegador (browser). Por ejemplo, Google Chrome tiene una herramienta llamada Chrome Developer Tools que tiene una consola donde puedes ver el resultado de tu código usando console.log(). 
-
-Si deseas aprender más sobre estas herramientas, te recomiendo leer el siguiente artículo: [Console overview](https://developer.chrome.com/docs/devtools/console/)
-
-Para escribir tu código, puedes descargar un editor de código (por ejemplo, Visual Studio Code) y editar el archivo index.html que incluí en el repositorio. Escribe tu código de JavaScript entre las etiquetas <script> y </script> y al hacer doble click sobre el archivo, el resultado se verá en la consola del navegador (si usas Google Chrome, en la consola de las herramientas de desarrollador).
-
-Durante el curso, usaremos el editor de código de freeCodeCamp, así que no es estrictamente necesario que descargues estas herramientas. Pero si deseas guardar tu código, deberás crear nuevos archivos index.html con <script> y </script> para escribir y guardar tu código.
