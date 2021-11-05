@@ -1,9 +1,10 @@
-# Aprende JavaScript - Curso Completo desde Cero
+# Curso completo de JavaScript
 Neste repositório eu estou compartilhando com vocês todas as aulas do curso que eu fiz no FreeCodeCamp.
 
-Eu gostei muito do passo a passo do curso,dos projetos curtos que me ajudaram a aplicar conhecimentos.
+## Sobre o Curso.
+Eu gostei muito do passo a passo do curso,principalmente dos projetos curtos que me ajudaram a aplicar conhecimentos.
 
-## 🔹 Conteúdo do Curso
+## 🔹 Conteúdo do Curso.
 - Primeiro Passos
 - Variáveis em JavaScript
 - Tipos de dados em JavaScript
