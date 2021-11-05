@@ -39,5 +39,4 @@ Durante o curso, eu aprendi a criar alguns projetos curtos, são eles:
 
 ## Link do curso
 
-<link> https://www.youtube.com/watch?v=ivdTnPl1ND0 </link>
-
+<a href="https://www.youtube.com/watch?v=ivdTnPl1ND0/">Clique aqui</a></p>
