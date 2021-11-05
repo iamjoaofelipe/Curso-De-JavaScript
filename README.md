@@ -1,10 +1,10 @@
 # Curso completo de JavaScript
 Neste repositório eu estou compartilhando com vocês todas as aulas do curso que eu fiz no FreeCodeCamp.
 
-## Sobre o Curso.
+## Sobre o Curso
 Eu gostei muito do passo a passo do curso,principalmente dos projetos curtos que me ajudaram a aplicar conhecimentos.
 
-## Conteúdo do Curso.
+## Conteúdo do Curso
 - Primeiro Passos
 - Variáveis em JavaScript
 - Tipos de dados em JavaScript
@@ -37,6 +37,6 @@ Durante o curso, eu aprendi a criar alguns projetos curtos, são eles:
 - Contagem de cartões
 - Busca de perfil
 
-## Link do curso
+## Link de acesso ao curso
 
 <a href="https://www.youtube.com/watch?v=ivdTnPl1ND0/">Clique aqui</a></p>
