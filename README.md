@@ -1,7 +1,7 @@
 # Aprende JavaScript - Curso Completo desde Cero
-Este repositório contém o código do curso "Learn JavaScript - Complete Course from Scratch" que eu fiz no FreeCodeCamp.
+Neste repositório eu estou compartilhando com vocês todas as aulas do curso que eu fiz no FreeCodeCamp.
 
-O curso **9+ hora*** foi projetado para que você aprenda JavaScript passo a passo através da prática com exemplos e projetos curtos que o ajudarão a aplicar seus conhecimentos. Os tópicos estão focados em um conceito específico, mas aqui os dividi em categorias principais para lhes dar uma idéia geral do conteúdo.
+Eu gostei muito do passo a passo do curso,dos projetos curtos que me ajudaram a aplicar conhecimentos.
 
 ## 🔹 Conteúdo do Curso
 - Primeiro Passos
