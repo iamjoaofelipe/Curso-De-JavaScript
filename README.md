@@ -1,7 +1,6 @@
 # Curso completo de JavaScript Básico
 Estou compartilhando neste repositório todas as aulas do curso 
-que fiz no FreeCodeCamp,através do Youtube,aula por aula,traduzindo tudo para o
-português,pois o curso é totalmente em Espanhol.
+que fiz no FreeCodeCamp.
 
 ## Sobre o Curso
 Eu gostei muito do passo a passo do curso,principalmente dos projetos curtos que me ajudaram a aplicar conhecimentos.
@@ -39,6 +38,3 @@ Durante o curso, eu aprendi a criar alguns projetos curtos, são eles:
 - Contagem de cartões
 - Busca de perfil
 
-## Clique no link abaixo para acessar o curso
-
-<a href="https://www.youtube.com/watch?v=ivdTnPl1ND0/">Clique aqui</a></p>
