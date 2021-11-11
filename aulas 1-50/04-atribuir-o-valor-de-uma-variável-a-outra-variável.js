@@ -1,19 +1,12 @@
 // Atribuir o valor de uma variável a outra variável em JavaScript.
-
-// Opção 1
-
+// Opção 1.
 var a = 5;
 var b = a;
-
 console.log(a);
 console.log(b);
-
-// Opção 2
-
+// opção 2.
 var a = 5;
 var b;
-
-b = a;
-
+b = a; 
 console.log(a);
 console.log(b);
