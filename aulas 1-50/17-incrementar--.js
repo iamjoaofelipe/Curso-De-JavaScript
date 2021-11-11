@@ -1,13 +1,8 @@
-// Reduzir o valor de uma variável.
-
-var numeroDeEstudantes = 100;
-console.log(numeroDeEstudantes);
-
-// 1 opção
-numeroDeEstudantes = numeroDeEstudantes - 1;
-console.log(numeroDeEstudantes);
-
-// segunda opção.
-numeroDeEstudantes--;
-console.log(numeroDeEstudantes);
+// Increment (--) o valor de uma variável em JavaScript.
+var incrementarValor = 256;
+console.log(incrementarValor);
+incrementarValor = incrementarValor - 1;
+console.log(incrementarValor);
+incrementarValor--;
+console.log(incrementarValor);
 
