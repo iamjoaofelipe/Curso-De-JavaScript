@@ -10,6 +10,7 @@ console.log(a);// undefined.
 console.log(b); // possui um valor.
 a = 10;
 console.log(a);
- 
+
+
 
 
