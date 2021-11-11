@@ -9,3 +9,4 @@ totalDeVendas += 100;
 console.log(totalDeVendas);
 
 
+
