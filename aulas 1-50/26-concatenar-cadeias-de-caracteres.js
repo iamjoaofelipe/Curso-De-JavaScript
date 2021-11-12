@@ -1,5 +1,5 @@
 // Concatenação em JavaScript.
-var nomeSobrenome = "João" + " Felipe";
+var nomeSobrenome = "João" + "Felipe";
 // Sem espaço
 console.log(nomeSobrenome);
 var nomeSobrenome= "João " + "Felipe";
