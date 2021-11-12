@@ -1,4 +1,4 @@
-// Aspas em JavaScript.
+// Strings em JavaScript.
 var meuObjetivo = "Aprender a programar em JavaScript com \"freeCodeCamp\"";
 console.log(meuObjetivo);
 // variações.
