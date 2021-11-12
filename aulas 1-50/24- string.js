@@ -1,4 +1,4 @@
-// Strings em JavaScript.
+// String em JavaScript.
 var meuObjetivo = "Aprender a programar em JavaScript com \"freeCodeCamp\"";
 console.log(meuObjetivo);
 // variações.
