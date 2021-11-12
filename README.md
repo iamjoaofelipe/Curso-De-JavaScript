@@ -1,12 +1,6 @@
-# Curso completo de JavaScript Básico
-Estou compartilhando neste repositório todas as aulas do curso 
-que fiz no FreeCodeCamp.
-
-## Sobre o Curso
-Eu gostei muito do passo a passo do curso,principalmente dos projetos curtos que me ajudaram a aplicar conhecimentos.
+# Curso completo de JavaScript Básico (FreeCodeCamp)
 
 ## Conteúdo do Curso
-- Primeiro Passos
 - Variáveis em JavaScript
 - Tipos de dados em JavaScript
 - Operações aritméticas
@@ -28,7 +22,6 @@ Eu gostei muito do passo a passo do curso,principalmente dos projetos curtos que
 - Sintaxe de desestruturação para objetos e matrizes
 - Cordas ou modelos literais
 - Classes e métodos em JavaScript
-
 ## Projetos
 Durante o curso, eu aprendi a criar alguns projetos curtos, são eles:
 - Palavras em branco
@@ -36,5 +29,5 @@ Durante o curso, eu aprendi a criar alguns projetos curtos, são eles:
 - Fique na fila
 - Código de golfe
 - Contagem de cartões
-- Busca de perfil
+- Buscar de perfil
 
