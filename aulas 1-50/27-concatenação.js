@@ -1,4 +1,4 @@
-// Concatenação com atribuidor += em JavaScript.
+// Concatenação em JavaScript.
 var fraseIncompleta = "Estou aprendendo a programar ";
 console.log(fraseIncompleta);
 var completarFrase = "em javaScript.";
