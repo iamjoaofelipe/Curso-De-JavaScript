@@ -1,4 +1,4 @@
-# Curso completo de JavaScript Básico (FreeCodeCamp)
+# JavaScript Básico (FreeCodeCamp)
 
 ## Conteúdo do Curso
 - Variáveis em JavaScript
