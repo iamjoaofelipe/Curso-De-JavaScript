@@ -1,4 +1,4 @@
-// Notação em JavaScript.
+//  em JavaScript.
 var linguagemDeProgramação = "JavaScript";
 console.log(linguagemDeProgramação);
 /*
