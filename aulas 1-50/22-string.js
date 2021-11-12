@@ -1,4 +1,4 @@
-// Variáveis ​​com cadeias de caracteres em JavaScript.
+// Strings em JavaScript.
 var nome = "João";
 console.log(nome);
 // variações
