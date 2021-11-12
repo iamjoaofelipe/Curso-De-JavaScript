@@ -1,8 +1,10 @@
-// Concatenar cadeias com mais e igual em JavaScript.
+// Concatenação com atribuidor += em JavaScript.
+var fraseIncompleta = "Estou aprendendo a programar ";
+console.log(fraseIncompleta);
+var completarFrase = "em javaScript.";
+fraseIncompleta += completarFrase;
+console.log(fraseIncompleta);
 
-var mensagemCompleta = "Estou aprendendo a programar ";
-console.log(mensagemCompleta);
 
-mensagemCompleta += "em JavaScript"; 
-// adicionei uma string ao final da frase
-console.log(mensagemCompleta);
+
+
