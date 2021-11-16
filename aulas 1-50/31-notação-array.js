@@ -1,4 +1,4 @@
-// Notação de colchetes em JavaScript.
+// Notação, Array em JavaScript.
 var linguagemDeProgramação = "JavaScript";
 console.log(linguagemDeProgramação);
 /*
