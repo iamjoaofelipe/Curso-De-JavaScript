@@ -1,4 +1,4 @@
-// Modificando as informações da array em JavaScript.
+// Modificando as informações de uma array em JavaScript.
 var meuArray = [10,20,30];
 console.log(meuArray);
 meuArray[0] = 40;
