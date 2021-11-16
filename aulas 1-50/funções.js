@@ -2,7 +2,6 @@
 function somar(a, b) {
     soma = a + b;
     console.log("O resultado de " + a + " + " + b + " é: " + soma);
-
 }
 somar(5, 3);
 somar(8, 9);
@@ -15,4 +14,4 @@ somar(x, y);
 function concatenarTres(c1, c2, c3) {
     console.log(c1 + " " + c2 + " " + c3);
 }
-concatenarTres("Estou" , "aprendendo" , "programação");
+concatenarTres("Estou", "aprendendo", "programação");
