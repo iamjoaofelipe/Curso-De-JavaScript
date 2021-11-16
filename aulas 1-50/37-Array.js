@@ -7,3 +7,4 @@ var idade = [50 , 30, 39 , 40];
 console.log(idade);
 
 
+
