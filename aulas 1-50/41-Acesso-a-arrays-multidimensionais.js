@@ -1,4 +1,4 @@
-// acessando arrays em javaScript.
+// Acessando as informações das arrays em javaScript.
 var meuArray = [[1,2,3] , [4,5,6] , [7,8,9]];
 /*
 [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
@@ -20,4 +20,5 @@ console.log(meuArray[1][2]);
 console.log(meuArray[2][0]);
 console.log(meuArray[2][1]);
 console.log(meuArray[2][2]);
+
 
