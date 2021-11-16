@@ -3,7 +3,8 @@ var estações = [["inverno"] , ["outono"] , ["primavera"]];
 console.log(estações);
 estações.push("verão"); // adicionando mais uma informação para a array.
 console.log(estações)
-  
+
+
 
 
 
