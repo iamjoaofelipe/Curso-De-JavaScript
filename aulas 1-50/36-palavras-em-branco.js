@@ -1,4 +1,4 @@
-// palavras em branco em JavaScript.
+// Palavras em branco em JavaScript.
 var meuSubstantivo = "Felipe";
 var meuAdjetivo = "está";
 var meuVerbo = "aprendendo";
