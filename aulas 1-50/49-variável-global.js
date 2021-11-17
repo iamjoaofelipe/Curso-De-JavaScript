@@ -4,4 +4,4 @@ console.log(variávelGlobal);
 function minhaFunção() {
     console.log(variávelGlobal);
 }
-console.log(variávelGlobal);
+console.log(variávelGlobal); // global.
