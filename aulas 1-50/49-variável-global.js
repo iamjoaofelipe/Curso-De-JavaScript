@@ -1,10 +1,7 @@
 // Variável global em JavaScript.
-
-var minhaVariavel = 5;
-console.log(minhaVariavelGlobal);
-
+var variávelGlobal = 5;
+console.log(variávelGlobal);
 function minhaFunção() {
-    console.log(minhaVariavelGlobal);
+    console.log(variávelGlobal);
 }
-
-console.log(minhaVariavelGlobal);
+console.log(variávelGlobal);
