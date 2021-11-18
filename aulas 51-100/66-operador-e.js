@@ -22,3 +22,4 @@ a = 20; // valor alterado.
 console.log((a < 5) && (a > 10)); // false && true = false.
 a = 1;
 console.log(( a == 5) && (a > 10)); // false && false = false
+
