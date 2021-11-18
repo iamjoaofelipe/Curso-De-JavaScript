@@ -1,3 +1,3 @@
-// valores booleanos em JavaScript.
+// Booleanos em JavaScript.
 console.log(true); 
 console.log(false); 
