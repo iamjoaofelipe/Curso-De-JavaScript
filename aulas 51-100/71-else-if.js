@@ -1,5 +1,4 @@
-// clausula "else-if" em declarações condicionais em JavaScript.
-
+// "else-if" , condicionais em JavaScript.
 function classificarValor(valor) {
     if (valor % 2 == 0) {
         console.log("Divisível por 2.");
@@ -9,6 +8,6 @@ function classificarValor(valor) {
         console.log("Não é divisível entre as opções.");
     }
 }
-classificarValor(2);
-classificarValor(3);
+classificarValor(10);
+classificarValor(15);
 classificarValor(7);

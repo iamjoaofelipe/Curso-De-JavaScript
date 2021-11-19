@@ -12,3 +12,4 @@ if (estacion === "verão") {
 } else {
     console.log("Mal posso esperar pelo verão para poder ir à praia.");
 }
+
