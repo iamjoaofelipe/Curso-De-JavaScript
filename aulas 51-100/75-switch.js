@@ -1,8 +1,4 @@
-/*switch em JavaScript.
-A condicional switch avalia uma expressão, combinando o valor 
-da expressão para um cláusula case, e executa as instruções
-associadas ao case.
-*/
+// Swith em JavaScript.
 function classificarValor(valor) {
   var resposta;
   switch (valor) {
@@ -19,7 +15,7 @@ function classificarValor(valor) {
       resposta = "Delta";
       break;
   }
-  return resposta;
+   return resposta;
 }
 console.log(classificarValor(1));
 console.log(classificarValor(2));
