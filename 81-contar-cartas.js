@@ -1,7 +1,5 @@
 // contar cartas em JavaScript.
-
 /*
-
 No jogo de cassino de Blackjack, o jogador pode tirar proveito da casa por 
 vantagem para a casa, mantendo o controle do número relativo de cartões altos e baixos
 de cartas altas e baixas deixadas no baralho. 
@@ -26,7 +24,6 @@ Cambio del conteo	     Cartas
 +1	                  2, 3, 4, 5, 6
 0	                  7, 8, 9
 -1	                  10, 'J', 'Q', 'K', 'A'
-
 
 Nosso objetivo é definir uma função para contar cartões. 
 A função deve assumir um parâmetro de letra que pode ser 
@@ -54,7 +51,6 @@ function contarCartas(cartas) {
         case 6:
             contar++;
             break;
-
         case 10:
         case "J":
         case "Q":
@@ -63,25 +59,20 @@ function contarCartas(cartas) {
             contar--;
             break;
     }
-
-
-
     if (contar > 0) {
         decisão = "apostar"
     } else {
         decisão = "esperar";
-
     }
     return contar + " " + decisão;
-
 }
-
 console.log(contarCartas(2));
 console.log(contarCartas(3));
 console.log(contarCartas(7));
 console.log(contarCartas("J"));
 console.log(contarCartas("K"));
 console.log(contarCartas("A"));
+
 
 
 
