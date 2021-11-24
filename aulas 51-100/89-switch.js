@@ -1,4 +1,4 @@
-// Buscar objetos em JavaScript.
+// switch em JavaScript.
 function buscarElementosQuimicos(simbolos) {
     var elementosQuimicos = "";
     switch (simbolos) {
