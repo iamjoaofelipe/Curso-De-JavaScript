@@ -12,3 +12,4 @@ console.log(curso.vistas);
 curso["vistas"] = 34500; 
 console.log(curso.vistas);
 
+
