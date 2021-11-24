@@ -10,3 +10,4 @@ var resultados = {
 var posição = 4;
 console.log(resultados[posição]); 
 
+
