@@ -10,3 +10,4 @@ for (var i = 0; i < 10; i += 2) {
     meuArray.push(i);
 }
 console.log(meuArray);
+
