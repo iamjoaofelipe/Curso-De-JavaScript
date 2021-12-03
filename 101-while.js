@@ -1,4 +1,4 @@
-// while em javaScript.
+// While em javaScript.
 var x = 16;
 do {
     console.log(x);
@@ -7,6 +7,8 @@ x++;
 console.log(x); 
 x++;
 }
+
+
 
     
 
