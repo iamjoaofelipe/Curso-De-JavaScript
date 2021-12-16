@@ -2,4 +2,4 @@
 const flecha = function() {
     return new Date();
 };
-const flecha = () => new Date();
+// const flecha = () => new Date();
