@@ -27,7 +27,15 @@ const PRONOSTICO_LOCAL = {
     }
 };
 //const minimaHoje = PRONOSTICO_LOCAL.hoje.minima; // alterei para var
-const maximaHoje = PRONOSTICO_LOCAL.hoje.minima;
+var maximaHoje = PRONOSTICO_LOCAL.hoje.minima;
 // Atribuir propriedades individualmente.
-const { hoje: { minima: minimaHoje } } = PRONOSTICO_LOCAL;
+var { hoje: { minima: minimaHoje } } = PRONOSTICO_LOCAL;
 console.log(minimaHoje);
+var { hoje: { maxima: maximaHoje } } = PRONOSTICO_LOCAL;
+console.log(maximaHoje);
+// Atribuir as duas propriedades
+var {
+    hoje: { minima: minimaHoje, maximaHoje }
+} = PRONOSTICO_LOCAL;
+console.log(minimaHoje, maximaHoje);
+// eu tive que alterar tudo para var
