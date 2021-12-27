@@ -1,4 +1,4 @@
-// Crie objetos de forma concisa em JavaScript.
+// Criar objetos de forma concisa em JavaScript.
 var a = 6;
 console.log(`O valor da variavel e ${a}.`);
 var nome = "Joao";
